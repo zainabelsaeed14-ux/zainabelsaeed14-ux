@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**zainabelsaeed14-ux/zainabelsaeed14-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Zainab 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Management Information Systems Student
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Fourth-year MIS student.
+- 💻 Interested in Web Development.
+- 🌱 Currently learning PHP and MySQL.
+- 🚀 Working on university projects.
+
+### 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+
+### 🎯 My Goal
+
+To become a professional web developer
+and build useful digital solutions.
+
+### 📫 Connect with Me
+
+GitHub: [@zainabelsaeed14-ux](https://github.com/zainabelsaeed14-ux)
